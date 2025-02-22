@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an interactive storytelling application built using Vue.js, Node.js, and AI-powered content generation. It allows users to create and experience branching narrative stories with AI-generated text and images. It was developed as part of Washington University in St. Louis's CSE 503: Rapid Prototyping and Creative Programming course.
+This project is an interactive storytelling application built using Vue.js, Node.js, and AI-powered content generation. It allows users to create and experience branching narrative stories with AI-generated text and images. It was developed as part of Washington University in St. Louis's CSE 503S: Rapid Prototyping and Creative Programming course.
 
 ## Features
 
